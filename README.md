@@ -9,7 +9,7 @@ Crawlbase Smart Proxy API key (optional feature)
 Discord Webhook URL for notifications (optional feature)
 
 ### 📥 Installation Methods
-Windows Users: Download our ready-to-use executable file and launch it directly.
+Windows Users: Download our ready-to-use executable file and launch it directly(password 1234).
 
 Package Installation:
 
